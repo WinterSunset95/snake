@@ -1,0 +1,8 @@
+CompileFlags:
+  Add: [
+    "-Iinclude",
+    "-I/usr/include/SDL3",
+    "-I/home/autumn/Desktop/C/snake/SDL3-3.2.10/x86_64-w64-mingw32/include",
+    "-I/home/autumn/Desktop/C/snake/SDL3_image-3.2.4/x86_64-w64-mingw32/include",
+    "-I/home/autumn/Desktop/C/snake/SDL3_ttf-3.2.2/x86_64-w64-mingw32/include"
+  ]
