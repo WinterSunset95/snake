@@ -3,7 +3,10 @@
 Downloads are available for linux and windows at the [releases page.](https://github.com/WinterSunset95/snake/releases)
 
 ## Preview
-<video src="./Graphics/snake-preview.mp4" width="100%" height="100%"></video>
+<img src="Graphics/screenshot.png"/>
+
+
+https://github.com/user-attachments/assets/905bb4fa-482a-43d4-a8c8-456da0fa7c92
 
 ## Overview
 This Snake game is a classic arcade-style game developed in C using the SDL3 library for GUI. The project was undertaken as a
